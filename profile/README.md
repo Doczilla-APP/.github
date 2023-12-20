@@ -1,5 +1,3 @@
-<img src="./.github/banner.png" alt="logo" />
-
 # Hi there 👋
 
 Doczilla is a powerful tool that simplifies the process of creating PDF and screenshots directly from your HTML.
